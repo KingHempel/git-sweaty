@@ -4247,6 +4247,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17933952922",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 6,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17942605831",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17942785673",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17943093997",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8146,6 +8173,16 @@
           "distance": 1235.1,
           "elevation_gain": 2.0,
           "moving_time": 1113.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17942785673",
+            "17943093997"
+          ],
+          "count": 2,
+          "distance": 2815.8,
+          "elevation_gain": 3.0,
+          "moving_time": 2571.0
         }
       },
       "WeightTraining": {
@@ -8409,11 +8446,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3562.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17942605831"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2948.0
         }
       }
     }
   },
-  "generated_at": "2026-04-01T16:08:59.286640+00:00",
+  "generated_at": "2026-04-02T16:03:59.251251+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
