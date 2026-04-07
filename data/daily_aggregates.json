@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T15:53:48.262500+00:00",
+  "generated_at": "2026-04-07T16:13:02.602745+00:00",
   "years": {
     "2024": {
       "Pilates": {
@@ -3438,6 +3438,15 @@
           "distance": 125.2,
           "elevation_gain": 0.0,
           "moving_time": 5466.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18011567418"
+          ],
+          "count": 1,
+          "distance": 91.2,
+          "elevation_gain": 0.0,
+          "moving_time": 5237.0
         }
       },
       "Run": {
@@ -4215,6 +4224,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3771.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18005420515"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3920.0
         }
       }
     }
