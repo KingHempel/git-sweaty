@@ -6355,5 +6355,31 @@
     "start_date_local": "2026-04-13T17:11:30Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18096854872",
+    "moving_time": 3235.0,
+    "name": "Morning Pilates",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-04-14T07:03:29Z",
+    "type": "Pilates",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 83.9,
+    "elevation_gain": 0.0,
+    "id": "18102781722",
+    "moving_time": 5327.0,
+    "name": "Evening Badminton",
+    "raw_activity_type": "Workout",
+    "raw_type": "Badminton",
+    "start_date_local": "2026-04-14T19:34:31Z",
+    "type": "Badminton",
+    "year": 2026
   }
 ]

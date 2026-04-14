@@ -4400,6 +4400,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18088023377",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 7,
+      "name": "Morning Pilates",
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "url": "https://www.strava.com/activities/18096854872",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 19,
+      "name": "Evening Badminton",
+      "subtype": "Badminton",
+      "type": "Badminton",
+      "url": "https://www.strava.com/activities/18102781722",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7849,6 +7867,26 @@
           "distance": 91.2,
           "elevation_gain": 0.0,
           "moving_time": 5237.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18102781722"
+          ],
+          "count": 1,
+          "distance": 83.9,
+          "elevation_gain": 0.0,
+          "moving_time": 5327.0
+        }
+      },
+      "Pilates": {
+        "2026-04-14": {
+          "activity_ids": [
+            "18096854872"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3235.0
         }
       },
       "Run": {
@@ -8711,7 +8749,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T16:18:28.726706+00:00",
+  "generated_at": "2026-04-14T16:12:06.419462+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
