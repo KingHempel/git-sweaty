@@ -4598,6 +4598,15 @@
       "type": "Badminton",
       "url": "https://www.strava.com/activities/18290261857",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18302303083",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8708,6 +8717,15 @@
           "distance": 1250.1,
           "elevation_gain": 2.0,
           "moving_time": 1128.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18302303083"
+          ],
+          "count": 1,
+          "distance": 1240.0,
+          "elevation_gain": 1.0,
+          "moving_time": 1189.0
         }
       },
       "WeightTraining": {
@@ -9101,7 +9119,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:56:30.731703+00:00",
+  "generated_at": "2026-04-29T16:45:18.741428+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
