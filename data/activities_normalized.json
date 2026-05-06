@@ -6758,5 +6758,18 @@
     "start_date_local": "2026-05-05T19:35:04Z",
     "type": "Badminton",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 5002.6,
+    "elevation_gain": 23.0,
+    "id": "18393733951",
+    "moving_time": 1853.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T11:34:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
