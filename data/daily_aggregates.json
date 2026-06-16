@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:05:26.933491+00:00",
+  "generated_at": "2026-06-16T18:55:57.576749+00:00",
   "years": {
     "2024": {
       "Pilates": {
@@ -3501,6 +3501,15 @@
           "distance": 251.6,
           "elevation_gain": 0.0,
           "moving_time": 5297.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18941387637"
+          ],
+          "count": 1,
+          "distance": 99.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4686.0
         }
       },
       "Pilates": {
@@ -4399,6 +4408,16 @@
           "distance": 2222.8,
           "elevation_gain": 7.0,
           "moving_time": 2229.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18935210041",
+            "18935543512"
+          ],
+          "count": 2,
+          "distance": 3521.9,
+          "elevation_gain": 3.0,
+          "moving_time": 3108.0
         }
       },
       "WeightTraining": {
@@ -4959,6 +4978,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1871.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18934923008"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3349.0
         }
       }
     }

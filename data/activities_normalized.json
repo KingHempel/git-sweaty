@@ -7343,5 +7343,57 @@
     "start_date_local": "2026-06-15T16:43:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18934923008",
+    "moving_time": 3349.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-16T06:32:02Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 2234.8,
+    "elevation_gain": 0.0,
+    "id": "18935210041",
+    "moving_time": 1947.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-16T07:29:10Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1287.1,
+    "elevation_gain": 3.0,
+    "id": "18935543512",
+    "moving_time": 1161.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-16T08:18:20Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 99.8,
+    "elevation_gain": 0.0,
+    "id": "18941387637",
+    "moving_time": 4686.0,
+    "name": "Evening Badminton",
+    "raw_activity_type": "Workout",
+    "raw_type": "Badminton",
+    "start_date_local": "2026-06-16T19:41:56Z",
+    "type": "Badminton",
+    "year": 2026
   }
 ]
