@@ -7486,5 +7486,31 @@
     "start_date_local": "2026-06-23T19:40:34Z",
     "type": "Badminton",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19054774376",
+    "moving_time": 1858.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-25T07:29:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 1572.3,
+    "elevation_gain": 3.0,
+    "id": "19055181429",
+    "moving_time": 1678.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-25T08:23:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
