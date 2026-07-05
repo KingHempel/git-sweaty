@@ -5255,6 +5255,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19107056405",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 10,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19182828750",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9766,6 +9775,15 @@
           "distance": 1329.7,
           "elevation_gain": 5.0,
           "moving_time": 1376.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19182828750"
+          ],
+          "count": 1,
+          "distance": 1281.2,
+          "elevation_gain": 2.0,
+          "moving_time": 1228.0
         }
       },
       "WeightTraining": {
@@ -10375,7 +10393,7 @@
       }
     }
   },
-  "generated_at": "2026-07-04T16:06:55.256452+00:00",
+  "generated_at": "2026-07-05T16:12:17.956937+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
