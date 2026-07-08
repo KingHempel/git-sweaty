@@ -7655,5 +7655,18 @@
     "start_date_local": "2026-07-07T19:35:38Z",
     "type": "Badminton",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 3003.5,
+    "elevation_gain": 2.0,
+    "id": "19222558970",
+    "moving_time": 1092.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T10:53:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
