@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:26:52.061724+00:00",
+  "generated_at": "2026-07-21T16:24:58.148469+00:00",
   "years": {
     "2024": {
       "Pilates": {
@@ -4635,6 +4635,15 @@
           "distance": 1276.7,
           "elevation_gain": 4.0,
           "moving_time": 1223.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19398841498"
+          ],
+          "count": 1,
+          "distance": 1515.3,
+          "elevation_gain": 2.0,
+          "moving_time": 1538.0
         }
       },
       "WeightTraining": {
@@ -5321,6 +5330,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4532.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19395156611"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3076.0
         }
       }
     }
