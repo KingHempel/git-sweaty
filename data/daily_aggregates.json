@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:24:58.148469+00:00",
+  "generated_at": "2026-07-22T16:21:35.072857+00:00",
   "years": {
     "2024": {
       "Pilates": {
@@ -3748,6 +3748,15 @@
           "distance": 3520.9,
           "elevation_gain": 21.0,
           "moving_time": 1307.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19410190433"
+          ],
+          "count": 1,
+          "distance": 5514.3,
+          "elevation_gain": 29.0,
+          "moving_time": 2074.0
         }
       },
       "Tennis": {

@@ -5480,6 +5480,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19398841498",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19410190433",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9230,6 +9239,15 @@
           "distance": 3520.9,
           "elevation_gain": 21.0,
           "moving_time": 1307.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19410190433"
+          ],
+          "count": 1,
+          "distance": 5514.3,
+          "elevation_gain": 29.0,
+          "moving_time": 2074.0
         }
       },
       "Tennis": {
@@ -10825,7 +10843,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:24:58.159936+00:00",
+  "generated_at": "2026-07-22T16:21:35.084364+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
