@@ -5525,6 +5525,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19481754776",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 19,
+      "name": "Evening Badminton",
+      "subtype": "Badminton",
+      "type": "Badminton",
+      "url": "https://www.strava.com/activities/19498017317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9064,6 +9073,15 @@
           "distance": 173.1,
           "elevation_gain": 0.0,
           "moving_time": 5688.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19498017317"
+          ],
+          "count": 1,
+          "distance": 56.4,
+          "elevation_gain": 0.0,
+          "moving_time": 5307.0
         }
       },
       "Pilates": {
@@ -10915,7 +10933,7 @@
       }
     }
   },
-  "generated_at": "2026-07-27T17:01:27.168991+00:00",
+  "generated_at": "2026-07-28T16:43:24.443508+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
