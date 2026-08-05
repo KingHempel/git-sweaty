@@ -8084,5 +8084,18 @@
     "start_date_local": "2026-08-04T19:36:28Z",
     "type": "Badminton",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 1597.8,
+    "elevation_gain": 2.0,
+    "id": "19608477214",
+    "moving_time": 1618.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T17:00:14Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
