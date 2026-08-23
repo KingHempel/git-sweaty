@@ -5723,6 +5723,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19829791720",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19856842960",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19859951269",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9518,6 +9536,15 @@
           "distance": 5000.0,
           "elevation_gain": 0.0,
           "moving_time": 1985.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19856842960"
+          ],
+          "count": 1,
+          "distance": 3517.3,
+          "elevation_gain": 22.0,
+          "moving_time": 1315.0
         }
       },
       "Tennis": {
@@ -10540,6 +10567,15 @@
           "distance": 1552.9,
           "elevation_gain": 4.0,
           "moving_time": 1654.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19859951269"
+          ],
+          "count": 1,
+          "distance": 1519.3,
+          "elevation_gain": 4.0,
+          "moving_time": 1498.0
         }
       },
       "WeightTraining": {
@@ -11311,7 +11347,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:25:00.241035+00:00",
+  "generated_at": "2026-08-23T15:26:25.594920+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
