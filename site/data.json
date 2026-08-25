@@ -5759,6 +5759,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19874141396",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19884681090",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19888642014",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 19,
+      "name": "Evening Badminton",
+      "subtype": "Badminton",
+      "type": "Badminton",
+      "url": "https://www.strava.com/activities/19891023189",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9316,6 +9343,15 @@
           "distance": 144.4,
           "elevation_gain": 0.0,
           "moving_time": 4931.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19891023189"
+          ],
+          "count": 1,
+          "distance": 140.6,
+          "elevation_gain": 0.0,
+          "moving_time": 5498.0
         }
       },
       "Pilates": {
@@ -10603,6 +10639,15 @@
           "distance": 1550.8,
           "elevation_gain": 3.0,
           "moving_time": 1606.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19888642014"
+          ],
+          "count": 1,
+          "distance": 1756.6,
+          "elevation_gain": 4.0,
+          "moving_time": 1713.0
         }
       },
       "WeightTraining": {
@@ -11379,11 +11424,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3344.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19884681090"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3302.0
         }
       }
     }
   },
-  "generated_at": "2026-08-24T15:41:44.859783+00:00",
+  "generated_at": "2026-08-25T15:45:50.330729+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
