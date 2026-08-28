@@ -5831,6 +5831,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19928955382",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19932318481",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10720,6 +10729,15 @@
           "distance": 1815.9,
           "elevation_gain": 6.0,
           "moving_time": 1816.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19932318481"
+          ],
+          "count": 1,
+          "distance": 1254.5,
+          "elevation_gain": 2.0,
+          "moving_time": 1217.0
         }
       },
       "WeightTraining": {
@@ -11527,7 +11545,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:18:27.408025+00:00",
+  "generated_at": "2026-08-28T23:56:28.608206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
