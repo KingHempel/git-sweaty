@@ -8630,5 +8630,31 @@
     "start_date_local": "2026-09-08T19:34:50Z",
     "type": "Badminton",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 4518.7,
+    "elevation_gain": 30.0,
+    "id": "20095007225",
+    "moving_time": 1609.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T08:11:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 1222.2,
+    "elevation_gain": 2.0,
+    "id": "20098735210",
+    "moving_time": 1084.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-09T16:46:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
