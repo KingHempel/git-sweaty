@@ -6092,6 +6092,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20180247040",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20194652365",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9968,6 +9977,15 @@
           "distance": 4010.7,
           "elevation_gain": 19.0,
           "moving_time": 1398.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20194652365"
+          ],
+          "count": 1,
+          "distance": 6513.5,
+          "elevation_gain": 41.0,
+          "moving_time": 2452.0
         }
       },
       "Tennis": {
@@ -12041,7 +12059,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T18:47:00.172308+00:00",
+  "generated_at": "2026-09-16T18:45:23.702915+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
