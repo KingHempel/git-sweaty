@@ -6335,6 +6335,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20494706923",
       "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20547459792",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20549992025",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20560104468",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11540,6 +11567,15 @@
           "distance": 1773.8,
           "elevation_gain": 9.0,
           "moving_time": 1676.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20549992025"
+          ],
+          "count": 1,
+          "distance": 1275.6,
+          "elevation_gain": 3.0,
+          "moving_time": 1422.0
         }
       },
       "WeightTraining": {
@@ -12523,11 +12559,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2718.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20547459792"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3245.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20560104468"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3598.0
         }
       }
     }
   },
-  "generated_at": "2026-10-11T19:24:36.723474+00:00",
+  "generated_at": "2026-10-12T22:26:11.086845+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/139211075",
   "repo": "KingHempel/git-sweaty",
