@@ -9553,5 +9553,44 @@
     "start_date_local": "2026-11-08T17:16:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20914297334",
+    "moving_time": 3247.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-09T08:18:28Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20925562691",
+    "moving_time": 3398.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-10T07:38:49Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 1236.3,
+    "elevation_gain": 6.0,
+    "id": "20925951812",
+    "moving_time": 1246.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-10T08:53:36Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
