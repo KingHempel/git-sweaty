@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:14:03.643395+00:00",
+  "generated_at": "2026-11-11T21:47:51.985855+00:00",
   "years": {
     "2024": {
       "Pilates": {
@@ -3937,6 +3937,15 @@
           "distance": 9008.3,
           "elevation_gain": 53.0,
           "moving_time": 3359.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20938680957"
+          ],
+          "count": 1,
+          "distance": 5014.9,
+          "elevation_gain": 7.0,
+          "moving_time": 1773.0
         }
       },
       "Tennis": {
@@ -5411,6 +5420,15 @@
           "distance": 1236.3,
           "elevation_gain": 6.0,
           "moving_time": 1246.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20942608870"
+          ],
+          "count": 1,
+          "distance": 1392.8,
+          "elevation_gain": 7.0,
+          "moving_time": 1295.0
         }
       },
       "WeightTraining": {
@@ -6484,6 +6502,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3398.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20952489381"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3464.0
         }
       }
     }
